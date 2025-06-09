@@ -1,4 +1,4 @@
-#include "../include/App.h"
+#include "../include/App.hpp"
 #include <wx/wx.h>
 
 wxIMPLEMENT_APP(App);
@@ -11,9 +11,8 @@ bool App::OnInit() {
 	SQLHSTMT hStmt = NULL;
 
 	MainFrame* mainFrame = new MainFrame("Connect to server", hEnv, hDbc, hStmt, isTestServer);
-	mainFrame->SetClientSize(300, 100);
+	mainFrame->SetClientSize(300, 80);
 	mainFrame->Center();
 	mainFrame->Show();
 	return true;
 }
-

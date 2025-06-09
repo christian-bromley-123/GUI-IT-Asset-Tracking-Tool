@@ -20,11 +20,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\App.cpp" />
+    <ClCompile Include="src\DBViewer.cpp" />
     <ClCompile Include="src\MainFrame.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\App.h" />
-    <ClInclude Include="include\MainFrame.h" />
+    <ClInclude Include="include\App.hpp" />
+    <ClInclude Include="include\DBViewer.hpp" />
+    <ClInclude Include="include\MainFrame.hpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

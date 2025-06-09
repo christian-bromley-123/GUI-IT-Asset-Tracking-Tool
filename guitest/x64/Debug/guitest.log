@@ -1,6 +1,2 @@
-﻿  App.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
-  MainFrame.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
-  Generating Code...
+﻿  DBViewer.cpp
   guitest.vcxproj -> C:\Users\christianb\Desktop\VSProjects\guitest\guitest\x64\Debug\guitest.exe

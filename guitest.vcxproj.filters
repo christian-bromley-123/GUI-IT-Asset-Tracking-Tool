@@ -21,12 +21,18 @@
     <ClCompile Include="src\App.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\DBViewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\App.h">
+    <ClInclude Include="include\App.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\MainFrame.h">
+    <ClInclude Include="include\MainFrame.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DBViewer.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
