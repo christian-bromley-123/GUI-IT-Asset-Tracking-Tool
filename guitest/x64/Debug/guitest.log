@@ -1,2 +1,6 @@
 ﻿  DBViewer.cpp
+C:\Users\christianb\Desktop\VSProjects\guitest\guitest\src\DBViewer.cpp(29,43): warning C4305: 'argument': truncation from 'int' to 'wxColourBase::ChannelType'
+C:\Users\christianb\Desktop\VSProjects\guitest\guitest\src\DBViewer.cpp(29,43): warning C4309: 'argument': truncation of constant value
+C:\Users\christianb\Desktop\VSProjects\guitest\guitest\src\DBViewer.cpp(32,51): warning C4305: 'argument': truncation from 'int' to 'wxColourBase::ChannelType'
+C:\Users\christianb\Desktop\VSProjects\guitest\guitest\src\DBViewer.cpp(32,51): warning C4309: 'argument': truncation of constant value
   guitest.vcxproj -> C:\Users\christianb\Desktop\VSProjects\guitest\guitest\x64\Debug\guitest.exe
